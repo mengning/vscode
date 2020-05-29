@@ -2,7 +2,7 @@
 
 ## examples
 
-* VS Code + draw.io
+* VS Code + draw.io
 
 ![VS Code + draw.io](images/quickstart.drawio.svg)
 
